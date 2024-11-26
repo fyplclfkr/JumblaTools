@@ -1,0 +1,15 @@
+QLabel {
+    font-family: 'Microsoft YaHei';
+}
+
+QLabel#dccLabel,
+QLabel#projectLabel {
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+QSplitter {
+    width: 1px;
+}

@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/app">
+        <file>images/icons/SettingsFilled_white.svg</file>
+        <file>images/icons/SettingsFilled_black.svg</file>
+        <file>images/icons/Settings_white.svg</file>
+        <file>images/icons/Settings_black.svg</file>
+        <file>images/icons/Maya_white.svg</file>
+        <file>images/icons/Maya_black.svg</file>
+        <file>images/icons/Houdini_white.svg</file>
+        <file>images/icons/Houdini_black.svg</file>
+        <file>images/icons/Unreal_white.svg</file>
+        <file>images/icons/Unreal_black.svg</file>
+
+        <file>images/logo.png</file>
+        <file>images/maya.png</file>
+        <file>images/houdini.png</file>
+        <file>images/unreal.png</file>
+
+        <file>i18n/app.zh_CN.qm</file>
+        <file>i18n/app.zh_HK.qm</file>
+
+        <file>qss/light/setting_interface.qss</file>
+        <file>qss/dark/setting_interface.qss</file>
+        <file>qss/light/dcclaunch_interface.qss</file>
+        <file>qss/dark/dcclaunch_interface.qss</file>
+        <file>qss/light/dcc_card.qss</file>
+        <file>qss/dark/dcc_card.qss</file>
+    </qresource>
+</RCC>

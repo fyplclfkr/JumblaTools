@@ -1,0 +1,29 @@
+DCCCard {
+    border: 1px solid rgb(46, 46, 46);
+    border-radius: 8px;
+    background-color: rgba(39, 39, 39, 0.95);
+}
+
+DCCCard:hover {
+    background-color: rgba(39, 39, 39, 0.93);
+    border: 1px solid #D3D3D3;
+}
+
+#titleLabel {
+    font: 18px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+    color: white;
+}
+
+#descriptionLabel {
+    font: 12px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+    color: rgb(208, 208, 208);
+}
+
+DccCardView {
+    background-color: transparent;
+    border: none;
+}
+
+#view {
+    background-color: transparent;
+}

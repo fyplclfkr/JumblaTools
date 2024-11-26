@@ -1,0 +1,5 @@
+/.venv/*
+/AppData/*
+/.idea/*
+/test/*
+/build/*
